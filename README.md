@@ -5,8 +5,6 @@ Simple online store management C++ application created for my OOP university cou
 
 ### Description
 
---
-
 An important element of an online store is the shopping cart. 
 At startup, the user is given the option of saving the contents of
 the cart in CSV or HTML format. 
@@ -31,10 +29,6 @@ in which case the default app for CSV/ HTML is opened, or in a table format, whe
 
 ### Technologies
 
--
-
 The project is created with:
-<ul>
-<li> C++14 </li>
-<li> Qt version: 6.4.2 </li>
-</ul>
+- C++14
+- Qt version: 6.4.2 

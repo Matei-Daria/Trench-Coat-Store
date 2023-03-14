@@ -1,4 +1,4 @@
-# Trench Coat store
+# Trench Coat Store
 
 Simple online store management C++ application created for my OOP university course. <br> <br> <br>
 
